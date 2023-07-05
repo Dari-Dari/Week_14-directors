@@ -1,0 +1,21 @@
+body {
+    padding: 1rem;
+    background-color: antiquewhite;
+}
+
+.container {
+    padding: 1rem 1rem 1rem 3rem;
+    border-bottom: 1px solid brown;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    padding-bottom: 1rem;
+}
+
+.topFilmsContainer {
+    max-width: 60vw;
+    margin: 1rem auto;
+    text-align: center;
+}
